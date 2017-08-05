@@ -16,7 +16,6 @@ class SearchBar extends Component{
         </div>
         )
     }
-
 }
 
 
